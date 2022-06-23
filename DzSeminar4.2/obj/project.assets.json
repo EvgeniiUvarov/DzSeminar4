@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\domz\\dz\\DzSeminar4.2\\DzSeminar4.2.csproj",
+      "projectUniqueName": "D:\\dzz\\DzSeminar4.2\\DzSeminar4.2.csproj",
       "projectName": "DzSeminar4.2",
-      "projectPath": "D:\\Git\\domz\\dz\\DzSeminar4.2\\DzSeminar4.2.csproj",
+      "projectPath": "D:\\dzz\\DzSeminar4.2\\DzSeminar4.2.csproj",
       "packagesPath": "C:\\Users\\Evgenii\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\domz\\dz\\DzSeminar4.2\\obj\\",
+      "outputPath": "D:\\dzz\\DzSeminar4.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Evgenii\\AppData\\Roaming\\NuGet\\NuGet.Config"
