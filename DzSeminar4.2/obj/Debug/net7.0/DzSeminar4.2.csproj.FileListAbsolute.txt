@@ -1,0 +1,15 @@
+D:\Git\domz\dz\DzSeminar4.2\bin\Debug\net7.0\DzSeminar4.2.exe
+D:\Git\domz\dz\DzSeminar4.2\bin\Debug\net7.0\DzSeminar4.2.deps.json
+D:\Git\domz\dz\DzSeminar4.2\bin\Debug\net7.0\DzSeminar4.2.runtimeconfig.json
+D:\Git\domz\dz\DzSeminar4.2\bin\Debug\net7.0\DzSeminar4.2.dll
+D:\Git\domz\dz\DzSeminar4.2\bin\Debug\net7.0\DzSeminar4.2.pdb
+D:\Git\domz\dz\DzSeminar4.2\obj\Debug\net7.0\DzSeminar4.2.csproj.AssemblyReference.cache
+D:\Git\domz\dz\DzSeminar4.2\obj\Debug\net7.0\DzSeminar4.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\domz\dz\DzSeminar4.2\obj\Debug\net7.0\DzSeminar4.2.AssemblyInfoInputs.cache
+D:\Git\domz\dz\DzSeminar4.2\obj\Debug\net7.0\DzSeminar4.2.AssemblyInfo.cs
+D:\Git\domz\dz\DzSeminar4.2\obj\Debug\net7.0\DzSeminar4.2.csproj.CoreCompileInputs.cache
+D:\Git\domz\dz\DzSeminar4.2\obj\Debug\net7.0\DzSeminar4.2.dll
+D:\Git\domz\dz\DzSeminar4.2\obj\Debug\net7.0\refint\DzSeminar4.2.dll
+D:\Git\domz\dz\DzSeminar4.2\obj\Debug\net7.0\DzSeminar4.2.pdb
+D:\Git\domz\dz\DzSeminar4.2\obj\Debug\net7.0\DzSeminar4.2.genruntimeconfig.cache
+D:\Git\domz\dz\DzSeminar4.2\obj\Debug\net7.0\ref\DzSeminar4.2.dll
